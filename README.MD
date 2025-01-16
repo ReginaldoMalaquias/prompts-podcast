@@ -70,8 +70,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     />
     <p>&nbsp&nbsp&nbspReginaldo Santos<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/reginaldoMalaquias/">
-    &nbsp;|&nbsp;GitHub</a>&nbsp;|&nbsp;
+    &nbsp;|&nbsp;<a href="https://github.com/reginaldoMalaquias/">
+    GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/reginaldo-santos-3755321a6/">LinkedIn</a>
 &nbsp;|&nbsp;
 <a href="https://www.youtube.com/watch?v=Rw39_X4kuQo/">Youtube</a>
