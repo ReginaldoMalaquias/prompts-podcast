@@ -23,7 +23,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-<a href="https://www.youtube.com/watch?v=Rw39_X4kuQo/" title="View now"> 📕Clique aqui para ouvir o Podcast</a>
+<a href="https://www.youtube.com/watch?v=Rw39_X4kuQo&list=PLB7dtCbmHTi4gMpbdfSl-fr1iqXI1bx0D/" title="View now"> 📕Clique aqui para ouvir o Podcast</a>
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
@@ -45,7 +45,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Youtube para publicar podcast em vídeo
 
 ## 📚 Materiais
-- [Youtube] https://www.youtube.com/watch?v=Rw39_X4kuQo
+- [Youtube] https://www.youtube.com/watch?v=Rw39_X4kuQo&list=PLB7dtCbmHTi4gMpbdfSl-fr1iqXI1bx0D
 - [Notion Template](https://www.notion.so/17c3f8e5e13e80d8b41fdd97e2e201dc?v=0ebb8ce11f7142e2adafe39df6d80ae2&pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
@@ -74,7 +74,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/reginaldo-santos-3755321a6/">LinkedIn</a>
 &nbsp;|&nbsp;
-<a href="https://www.youtube.com/watch?v=Rw39_X4kuQo/">Youtube</a>
+<a href="https://www.youtube.com/watch?v=Rw39_X4kuQo&list=PLB7dtCbmHTi4gMpbdfSl-fr1iqXI1bx0D/">Youtube</a>
     &nbsp;|&nbsp;</p>
     
 
