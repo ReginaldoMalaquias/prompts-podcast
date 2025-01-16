@@ -33,6 +33,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [Microsoft Copilot](https://copilot.microsoft.com/) 
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
+- [Youtube](https://www.youtube.com/)
+
 
 ## ✨ Como foi feito ?
 
@@ -40,8 +42,10 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Audio gerado pela elevenLabs
 - Microsoft Copilot Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+- Youtube para publicar podcast em vídeo
 
 ## 📚 Materiais
+- [Youtube] https://www.youtube.com/watch?v=Rw39_X4kuQo
 - [Notion Template](https://www.notion.so/17c3f8e5e13e80d8b41fdd97e2e201dc?v=0ebb8ce11f7142e2adafe39df6d80ae2&pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
@@ -71,6 +75,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <a href="https://www.linkedin.com/in/reginaldo-santos-3755321a6/">LinkedIn</a>
 &nbsp;|&nbsp;
     &nbsp;&nbsp;</p>
+    <a href="https://www.youtube.com/watch?v=Rw39_X4kuQo/">Youtube</a>
+&nbsp;|&nbsp;
+    &nbsp;&nbsp;</p>
+    
+
+
 </p>
 <br/><br/>
 <p>
