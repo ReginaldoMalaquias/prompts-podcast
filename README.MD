@@ -23,7 +23,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-<a href="https://github.com/ReginaldoMalaquias/prompts-podcast" title="View now"> 📕Clique aqui para ler</a>
+<a href="https://www.youtube.com/watch?v=Rw39_X4kuQo/" title="View now"> 📕Clique aqui ouvir o Podcast</a>
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
