@@ -74,8 +74,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/reginaldo-santos-3755321a6/">LinkedIn</a>
 &nbsp;|&nbsp;
-    &nbsp;&nbsp;</p>
-    <a href="https://www.youtube.com/watch?v=Rw39_X4kuQo/">Youtube</a>
+<a href="https://www.youtube.com/watch?v=Rw39_X4kuQo/">Youtube</a>
+    &nbsp;&nbsp;
 &nbsp;|&nbsp;
     &nbsp;&nbsp;</p>
     
